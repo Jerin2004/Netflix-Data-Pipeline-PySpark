@@ -24,8 +24,6 @@ The dataset includes the following key fields:
 - Genre (Listed In)
 - Description
 
-> Data Source: [Netflix Titles Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows) *(or your source if different)*
-
 ## 🛠️ Tools & Technologies Used
 
 | Tool/Tech           | Description                                      |
